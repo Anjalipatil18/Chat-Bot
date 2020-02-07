@@ -1,0 +1,14 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "chating app",
+  "main": "index.js",
+  "scripts": {
+    "devStart":"nodemon server.js"
+  },
+  "author": "Anjali patil",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
